@@ -1,0 +1,33 @@
+'Etiquetas De Formato'
+
+<!DOCTYPE>: Tipo de documento.
+<html>: Raiz de un documento HTML, engloba todo el contenido de la pagina.
+<head>: Contiene metadatos y funciona como encabezado de la pagina.
+<title>: Define el titulo del documento o pagina.
+<body>: Representa el cuerpo o el contenido principal del documento HTML o pagina.
+<h1>, <h2>, <h3>, <h4>, <h5>, <h6>: Define titulos, subtitulos, notas ect.
+<p>: Se usa para definir parrafos.
+<a>: Define un hipervinculo a otra pagina web o recurso.
+<img>: Incrfusta una imagen en el documento.
+<div>: Define una divicion o seccion en un documento, generalmente utilizado como contenedor para diseño o estilizado.
+<span>: Sirve para agrupar elementos en linea para aplicarles estilos o por razones de script.
+<ol>: Define una lista ordenada con numeros.
+<ul>: Define una lista con puntos.
+<li>: Define los items o elementos en <ol> y <ul>.
+<hr>: Inserta un salto de linea simple.
+<table>: Define una tabla.
+<tr>: Define una lista en una tabla.
+<td>: Define una celda en una tabla.
+<th>: Define una celda de encabezado en una tabla.
+<from>: Define un formulario HTML para la entrada del usuario.
+<input>: Define una campo de entrada en un formulario.
+<label>: Define una etiqueta para un elemento <input>.
+<button>: Define un boton clickeable.
+<select>: Define un menu desplegable.
+<option>: Define una opcion dentro de un elemento <select>.
+<link>: Se usa para enlazar hojas de estilo externas.
+<meta>: Define metadatos que no pueden ser representados por otros elementos HTML.
+<script>: Se utiliza para insertar o hacer referencia a un script ejecutable. 
+
+'Etiquetas De Bloque'
+ 
