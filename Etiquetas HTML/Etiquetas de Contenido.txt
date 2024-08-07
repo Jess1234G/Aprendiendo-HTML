@@ -1,0 +1,9 @@
+'Etiquetas de Contenido'
+
+<img src="..."/> : Formato HTML para agregar imagenes
+<a href="..."/> : Formulario HTML para URL
+
+<form>
+     <label> Nombre: </label> 
+     <input type="..."/>  : Formato para Formularios
+</form>

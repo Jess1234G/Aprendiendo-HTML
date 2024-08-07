@@ -1,0 +1,8 @@
+'Etiquetas de Bloques'
+
+<header> : Encabezado
+<main> : Principal
+<footer> : Pie de pagina
+<div> : Division
+<article> : Articulo
+<Section> : Sección
